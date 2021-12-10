@@ -329,12 +329,12 @@ async def cb_handler(client, query):
         await query.message.edit_text(Translation.SOURCE_TEXT, reply_markup=InlineKeyboardMarkup(
                [
                    [
-                       InlineKeyboardButton('Tamil', url='https://github.com/PR0FESS0R-99/DonLee-Robot-V2/fork'),
-                       InlineKeyboardButton('Malayalam', url='https://github.com/PR0FESS0R-99/DonLee-Robot-V2/stargazers')
+                       InlineKeyboardButton('Tamil', url='https://t.me/+OURBRjKyv9JhZDFl'),
+                       InlineKeyboardButton('Malayalam', url='https://t.me/+bx0wtLDVeCNkMjZl')
                    ],
                    [
-                       InlineKeyboardButton('Hindi', url='https://youtu.be/NrbMc93aCzA'),
-                       InlineKeyboardButton('English', url='https://youtu.be/NrbMc93aCzA')
+                       InlineKeyboardButton('Telugu', url='https://t.me/+Y5ypeqZ4z7tlNDI1'),
+                       InlineKeyboardButton('English', url='https://t.me/+wjFjLgW80_ExNDQ1')
                    ],
                    [
                        InlineKeyboardButton("🔙 Back 🔙", callback_data="help")
