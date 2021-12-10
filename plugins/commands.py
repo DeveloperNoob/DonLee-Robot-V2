@@ -171,23 +171,23 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (                                 
-                                 "📣Group", url="t.me/mo_tech_group"
+                                 "🎬Movie Group", url="t.me/onlymovie76"
                              ),
                          InlineKeyboardButton
                              (
-                                 "📢Channel", url="t.me/mo_tech_yt"
+                                 "📺Series group", url="t.me/TvSeriesLand4U"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
+                                 "🗞️New OTT Updates", url="t.me/M76Links"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
+                                 "📽️Korean Movies", url="t.me/onlyKorean76"
                              )
                     ],
                     [
